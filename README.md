@@ -12,11 +12,16 @@
 
 ## 🎭 About Me
 const pinkPanther = {
+
   name: "The Pink Panther",
+  
   role: "Full Stack Detective",
+  
   mission: "Solving coding mysteries 🔍",
+  
   loves: ["Clean Code", "Elegant UIs", "Coffee ☕"],
-  currentlyLearning: ["TypeScript", "System Design"]
+  
+  currentlyLearning: ["Backend Engineering"]
 };
 
 <div align="center">
