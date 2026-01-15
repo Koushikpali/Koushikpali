@@ -62,6 +62,9 @@ const pinkPanther = {
 
 
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushikpali&theme=tokyo-night&bg_color=1a1a2e&color=FF69B4&line=FF1493&point=FFC0CB&area=true&hide_border=false&border_color=FF69B4" width="98%" alt="Contribution Graph"/>
+</div>
 
 ---
 
